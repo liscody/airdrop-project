@@ -1,0 +1,23 @@
+{
+  "name": "airdrop-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liscody/airdrop-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liscody/airdrop-project/issues"
+  },
+  "homepage": "https://github.com/liscody/airdrop-project#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.44.2"
+  }
+}
